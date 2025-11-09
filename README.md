@@ -18,7 +18,7 @@ This project is a real-time chat application that enables direct communication b
 
 Clone the repository  
 ```bash
-git clone https://github.com/AlejandroB/chat_ptp_room_selector.git
+git clone https://github.com/Mucca03/chat_ptp_room_selector.git
 cd chat_ptp_room_selector
 ```
 
