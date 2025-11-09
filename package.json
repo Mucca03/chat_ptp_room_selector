@@ -1,0 +1,22 @@
+{
+  "name": "chat_ptp_room_selector",
+  "version": "1.0.0",
+  "description": "Peer-to-peer chat app with room selection using WebRTC and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Alejandro B",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "type": "commonjs",
+  "keywords": []
+}

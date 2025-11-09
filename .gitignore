@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+public/js/node_modules/
+
+# Archivos temporales
+*.log
+npm-debug.log*
+package-lock.json
+
+# Sistema / IDE
+.DS_Store
+.vscode/
+.env
