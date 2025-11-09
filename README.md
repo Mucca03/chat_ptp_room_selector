@@ -46,3 +46,20 @@ http://localhost:3000
 3. Both clients establish a **WebRTC** peer-to-peer connection.
 4. Messages are sent directly between clients — not through the server.
 5. If the room already has two people, the message “Room full” is shown.
+
+---
+
+## 📸 Screenshots
+Here are some images showing how the app works:
+### 🏠 Main interface to create or join a room
+![Main screen](ss/home.png)
+
+### 🔗 Room created and waiting for another user
+![Room created](ss/room_created.png)
+
+### 💬 Chat between two users
+![Chat running](ss/chat_running.png)
+
+### 🚫 Message shown when room is full
+![Room full](ss/room_full.png)
+
